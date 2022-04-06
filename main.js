@@ -21,7 +21,7 @@ function highlighCups(idx) {
         } else {
             cup.classList.remove('full')
         }
-    }) 
+    })
     updateBigCup()
 }
 
